@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kanater", "Assembly-CSharp.csproj", "{F85BAB6F-7F49-D451-0249-94360BD92423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kanater", "Assembly-CSharp-firstpass.csproj", "{BD63CD23-5B24-9ADE-08BA-E97B02BE714D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kanater", "Assembly-CSharp-Editor-firstpass.csproj", "{69E6C66E-81DA-758E-A2BD-762FD6138036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85BAB6F-7F49-D451-0249-94360BD92423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85BAB6F-7F49-D451-0249-94360BD92423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85BAB6F-7F49-D451-0249-94360BD92423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85BAB6F-7F49-D451-0249-94360BD92423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD63CD23-5B24-9ADE-08BA-E97B02BE714D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD63CD23-5B24-9ADE-08BA-E97B02BE714D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD63CD23-5B24-9ADE-08BA-E97B02BE714D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD63CD23-5B24-9ADE-08BA-E97B02BE714D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E6C66E-81DA-758E-A2BD-762FD6138036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E6C66E-81DA-758E-A2BD-762FD6138036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E6C66E-81DA-758E-A2BD-762FD6138036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E6C66E-81DA-758E-A2BD-762FD6138036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
